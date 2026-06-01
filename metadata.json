@@ -1,0 +1,6 @@
+{
+  "name": "儿童节3D手势粒子系统",
+  "description": "基于Three.js与手势识别的实时交互3D粒子系统，可通过摄像头单手张合手势控制彩团、小星星、糖果粒子，拼成‘六一儿童节快乐’。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
